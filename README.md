@@ -1,36 +1,33 @@
-<h1 align="center">Hi 👋, I'm Christian Nguembou Tagne</h1
+# Christian Nguembou Tagne
 
+## About Me
+Hello! My name is Christian Nguembou Tagne. I have a background as a mathematics teacher and I am currently working as a Data Engineer and Data Scientist trainee at BeCode Liège. I am passionate about data science, machine learning, and big data technologies.
 
-<h3 align="center">A passionate about data engineering and data science</h3>
+## Technologies & Tools
+- **Programming Languages**: Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- **Big Data Technologies**: PySpark ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white), Apache Airflow ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white)
+- **Containerization**: Docker ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- **Databases**: SQL ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+- **Data Manipulation & Analysis**: Pandas ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white), Numpy ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)
+- **Machine Learning & Scientific Computing**: Scikit-Learn ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white), Scipy ![Scipy](https://img.shields.io/badge/-Scipy-8CAAE6?logo=scipy&logoColor=white)
+- **Data Pipelines**: ETL (Extract, Transform, Load), ELT (Extract, Load, Transform)
+- **Web Scraping**: BeautifulSoup ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?logo=python&logoColor=white), Scrapy ![Scrapy](https://img.shields.io/badge/-Scrapy-48A647?logo=scrapy&logoColor=white)
 
+## Projects
+I have worked on various projects involving data engineering, data science, and machine learning. Here are a few highlights:
 
-- 🔭 I'm currently working on **a price predictor for real estate properties.**
+- **Data Pipelines**: Designed and implemented robust ETL and ELT pipelines using Apache Airflow and PySpark.
+- **Web Scraping**: Developed web scraping tools using BeautifulSoup and Scrapy to collect and process data from various websites.
+- **Machine Learning**: Built and deployed machine learning models using Scikit-Learn and other libraries for predictive analytics and data-driven decision making.
 
-- 🌱 I'm currently learning **advanced Python, and how to deploy an API with Docker.**
+## Contact
+- **LinkedIn**: [www.linkedin.com/in/cnguembou](https://www.linkedin.com/in/cnguembou)
+- **Email**: [c.nguembou@gmail.com](mailto:c.nguembou@gmail.com)
 
-- 📫 How to reach me **c.nguembou@gmail.com**
+Feel free to reach out if you have any questions or if you would like to collaborate on a project!
 
+## GitHub Stats
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianValery&show_icons=true&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://kaggle.com/christianvalery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="christianvalery" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  
-  </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianValery&layout=compact&theme=radical)
