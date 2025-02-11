@@ -1,7 +1,7 @@
 # Christian Nguembou Tagne
 
 ## About Me
-Hello! I have a background as a mathematics teacher and I am currently working as a Junior Data Engineer / Scientist trainee at BeCode Liège. I am passionate about data science, machine learning, and big data technologies.
+Hello! I have a background as a mathematics teacher and I am currently working as a Junior Data Engineer / Scientist at BeCode Liège. I am passionate about data science, machine learning, and big data technologies.
 
 ## Technologies & Tools
 - **Programming Languages**: Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
